@@ -28,6 +28,16 @@ android {
             resValue 'string', 'app_name', 'Nabenik'
             applicationId 'org.esvux.demos.demomultiskin.oficinas'
         }
+        latorre {
+            dimension 'client'
+            resValue 'string', 'app_name', 'LaTorre'
+            applicationId 'org.esvux.demos.demomultiskin.latorre'
+        }
+        xelapan {
+            dimension 'client'
+            resValue 'string', 'app_name', 'Xelapan'
+            applicationId 'org.esvux.demos.demomultiskin.xelapan'
+        }
     }
 }
 
